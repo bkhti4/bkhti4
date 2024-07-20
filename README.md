@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bkhti4
 - 👀 I’m interested in computer vision, automobiles, robotics and aviation.
 - 🌱 I’m currently learning anything that excites me!
-- 💞️ I’m looking to collaborate on projects related to simluation and CNN.
+- 💞️ I’m looking to collaborate on projects related to simulation, digital twin and AI.
 - 📫 You can reach me at bakhtiar.meraj123@gmail.com
 
 <!---
